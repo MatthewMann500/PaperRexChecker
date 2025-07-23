@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaperRexChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78716eb72d78a0fa53571ac3c586d4d9e76c6c42")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaperRexChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaperRexChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
